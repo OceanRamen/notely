@@ -1,0 +1,22 @@
+{
+  "name": "notely",
+  "version": "1.0.0",
+  "description": "A highly-versitile text-editor designed for note-taking, and much more.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OceanRamen/notely.git"
+  },
+  "author": "OceanRamen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OceanRamen/notely/issues"
+  },
+  "homepage": "https://github.com/OceanRamen/notely#readme",
+  "devDependencies": {
+    "electron": "^25.0.1"
+  }
+}
